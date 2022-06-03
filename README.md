@@ -38,7 +38,7 @@ Then when you moved the image as you want, open `PlaceObject 80` and change as b
 
 ### **5.** Launch Party Pack<br>
   Save and see how it looks in the end. If everything looks pleasing to the eye, congratulations, you've added your TheGameSix to what you wanted. If nothing works, re-read the text, you may have done something wrong. (For example: you didn't put the game in from Party Pack 8.)<br>
-  If you have any questions, go to discord.gg/FsfSdVKcwq
+  If you have any questions, go to [Discord Server](discord.gg/FsfSdVKcwq)
 
 
 ==================================================================<br>
