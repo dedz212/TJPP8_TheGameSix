@@ -33,7 +33,8 @@ To start, save and run the game. If everything looks nice and pleasing to the ey
   You go to `frames` and `"frame 96"`. Then go to `"PlaceObject 81"`, a separate tab should appear in the guide, there you find the `"Edit"` button, open the `"matrix"` section there, and change the value in `"translateX"` and/or `"translateY"`. If for some reason the right hand box does not appear, then click on `"PlaceObject 81"` and `"Raw edit"`, click on `"Edit"`, open the "matrix" section there, and change the value in `"translateX"` and/or `"translateY"`.
 Note that this is if you want to move them to the right, left, up, and right. If you change `translateX` to a higher value, it moves to the right. If `translateY` to a higher value, it moves down! When you change, remember how many numbers are different from the original, you need this!
   If you want just increase or decrease scale, then this is responsible `"scaleX"` and `"scaleY"`, increase or decrease the same, proportional changes also need to remember how many numbers different from the original.
-P.S. You can use `"Free Transform"` but it does not always work correctly. Be vigilant!
+> P.S. You can use `"Free Transform"` but it does not always work correctly. Be vigilant!<br>
+
 Then when you moved the image as you want, open `PlaceObject 80` and change as before, for example: if you moved the X to +500 in `PlaceObject 81`, then in `PlaceObject 80` move X to +500.
 
 ### **5.** Launch Party Pack<br>
@@ -43,4 +44,4 @@ Then when you moved the image as you want, open `PlaceObject 80` and change as b
 
 ==================================================================<br>
 - tWoET - [the Wheel of Enormous Trolling](https://www.jackboxmods.ga/main#h.kfwpkj6296vd)<br>
-- tWoEP - the Wheel of Enormous Proportions
+- tWoEP - [the Wheel of Enormous Proportions](https://jackboxgames.fandom.com/wiki/The_Wheel_of_Enormous_Proportions)
