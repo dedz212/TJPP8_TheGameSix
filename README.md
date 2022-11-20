@@ -20,6 +20,7 @@ Created for modifiers so as not to replace the existing original game.
 
 ### **4.** The image on the menu.
   You have 517x429 png instead of a cake? This can be fixed, there you can insert your cake or just copy it from an already created cake from Jackbox Games. Just go to `PickerContent.swf` (in `PartyPack` folder) and then the most important thing...
+> P.S In order to edit .swf, I advise you to use the [JPEXS](https://github.com/jindrapetrik/jpexs-decompiler) program
 
 #### **4.1** Same size
   If the image is the same size as 517x429 go to the section `"image"` and find `"DefineBitsLossless2 (481)"`, press Right-click the mouse and `"Replace..."`, then you find the image you want to replace. I say it again, the image you want to replace should be 517x429.
